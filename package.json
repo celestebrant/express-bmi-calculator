@@ -1,0 +1,15 @@
+{
+  "name": "express-bmi",
+  "version": "1.0.0",
+  "description": "BMI calculator express web app.",
+  "main": "bmi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Celeste Brant",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
